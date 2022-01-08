@@ -1,5 +1,7 @@
 # soufzone
 
+## DragDrop Zone With Vu3
+Drag and Drop Files then Get informations About them Like Type, Size, Name, Last modified date with , with Vue 3 (Composition Api).
 ## Project setup
 ```
 npm install
